@@ -28,15 +28,6 @@ Enter your clinical query: nstemi management
 Enter your clinical query: stroke thrombolysis criteria
 Enter your clinical query: stemi management
 
-## 🏗️ Project Structure
-clinical-protocol-search/
-├── protocols/          # Clinical protocol text files
-├── src/
-│   ├── loader.py      # Load protocol files
-│   ├── chunker.py     # Split documents into chunks
-│   └── search.py      # Keyword search implementation
-└── main.py            # CLI application
-
 ## 🧠 Technical Concepts
 
 ### Phase 1 (Current): Keyword Search
@@ -56,7 +47,7 @@ clinical-protocol-search/
 
 ## 🎓 Learning Journey
 
-As a doctor learning software engineering, this project taught me:
+As a doctor learning software engineering, I am using this project to learn:
 
 1. **Document Retrieval**: How search engines work under the hood
 2. **RAG Concepts**: Why retrieval + generation is powerful for healthcare
