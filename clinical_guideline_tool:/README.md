@@ -16,6 +16,10 @@ Doctors waste precious minutes searching through lengthy protocols during emerge
 
 ## 🚀 Quick Start
 ```bash
+# Clone the repository
+git clone https://github.com/ejatuj/clinical_guideline_tool.git
+cd clinical_guideline_tool
+
 # Navigate to the project directory
 cd clinical_guideline_tool/
 
