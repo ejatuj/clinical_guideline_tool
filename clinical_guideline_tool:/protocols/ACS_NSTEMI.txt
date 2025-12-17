@@ -1,0 +1,308 @@
+Initial drug therapy
+1.2.1
+Offer aspirin as soon as possible to all people with unstable angina or non‑ST‑segment elevation myocardial infarction (NSTEMI) and continue indefinitely unless contraindicated by bleeding risk or aspirin hypersensitivity. [2010]
+
+1.2.2
+Offer people with unstable angina or NSTEMI a single loading dose of 300-mg aspirin as soon as possible unless there is clear evidence that they are allergic to it. [2010]
+
+1.2.3
+Offer fondaparinux to people with unstable angina or NSTEMI who do not have a high bleeding risk, unless they are undergoing immediate coronary angiography. [2020]
+1.2.4
+Consider unfractionated heparin, with dose adjustment guided by monitoring of clotting function, as an alternative to fondaparinux for people with unstable angina or NSTEMI and significant renal impairment (creatinine above 265 micromoles per litre). [2010]
+
+1.2.5
+Carefully consider the choice and dose of antithrombin for people with unstable angina or NSTEMI who have a high risk of bleeding associated with any of the following:
+
+advancing age
+
+known bleeding complications
+
+renal impairment
+
+low body weight. [2010]
+
+1.2.6
+Do not offer dual antiplatelet therapy to people with chest pain before a diagnosis of unstable angina or NSTEMI is made. [2020]
+Risk assessment
+1.2.7
+As soon as the diagnosis of unstable angina or NSTEMI is made, and aspirin and antithrombin therapy have been offered, formally assess individual risk of future adverse cardiovascular events using an established risk scoring system that predicts 6‑month mortality (for example, Global Registry of Acute Cardiac Events [GRACE]). [2010]
+
+1.2.8
+Include in the formal risk assessment:
+
+a full clinical history (including age, previous myocardial infarction [MI] and previous PCI or coronary artery bypass grafting [CABG])
+
+a physical examination (including measurement of blood pressure and heart rate)
+
+a resting 12‑lead ECG, looking particularly for dynamic or unstable patterns that indicate myocardial ischaemia
+
+blood tests (such as troponin I or T, creatinine, glucose and haemoglobin). [2010]
+
+1.2.9
+Record the results of the risk assessment in the person's care record. [2010]
+
+1.2.10
+Use risk assessment to guide clinical management, and balance the benefit of a treatment against any risk of related adverse events in the light of this assessment. [2010]
+
+1.2.11
+Use predicted 6‑month mortality to categorise the risk of future adverse cardiovascular events as shown in table 1. [2010]
+Coronary angiography with follow-on PCI
+1.2.12
+Offer immediate coronary angiography to people with unstable angina or NSTEMI if their clinical condition is unstable. [2020]
+
+1.2.13
+Consider coronary angiography (with follow‑on PCI if indicated) within 72 hours of first admission for people with unstable angina or NSTEMI who have an intermediate or higher risk of adverse cardiovascular events (predicted 6‑month mortality above 3.0%) and no contraindications to angiography (such as active bleeding or comorbidity).
+
+See table 2 for information on the benefits and risks of early invasive treatment compared with conservative management. [2020]
+
+1.2.14
+Consider coronary angiography (with follow‑on PCI if indicated) for people with unstable angina or NSTEMI who are initially assessed to be at low risk of adverse cardiovascular events (predicted 6‑month mortality 3.0% or less) if ischaemia is subsequently experienced or is demonstrated by ischaemia testing.
+
+See table 2 for information on the benefits and risks of early invasive treatment compared with conservative management. [2020]
+
+1.2.15
+Be aware that some younger people with low risk scores for mortality at 6 months may still be at high risk of adverse cardiovascular events and may benefit from early angiography. [2020]
+1.2.16
+Offer systemic unfractionated heparin in the cardiac catheter laboratory to people with unstable angina or NSTEMI who are undergoing PCI whether or not they have already received fondaparinux.
+1.2.17
+For people with unstable angina or NSTEMI who are having coronary angiography, offer:
+
+prasugrel or ticagrelor, as part of dual antiplatelet therapy with aspirin, if they have no separate indication for ongoing oral anticoagulation (if using prasugrel, only give it once coronary anatomy has been defined and PCI is intended; for people aged 75 and over, think about whether the person's risk of bleeding with prasugrel outweighs its effectiveness)
+
+clopidogrel, as part of dual antiplatelet therapy with aspirin, if they have a separate indication for ongoing oral anticoagulation. [2020]
+
+Prasugrel and ticagrelor are recommended as options in NICE technology appraisal guidance for some people with unstable angina or NSTEMI who are having coronary angiography.
+1.2.18
+If stenting is indicated, offer a drug-eluting stent to people with unstable angina or NSTEMI undergoing revascularisation by PCI. [2020]
+Glycoprotein IIb/IIIa inhibitors for complex PCI
+1.2.19
+Glycoprotein IIb/IIIa inhibitors as an adjunct to PCI are recommended as an option in NICE technology appraisal guidance for people with unstable angina or NSTEMI who are having complex procedures. For full details, see the guidance on glycoprotein IIb/IIIa inhibitors (TA47, 2010).
+
+Management when PCI is not indicated
+1.2.20
+Consider conservative management without early coronary angiography for people with unstable angina or NSTEMI who have a low risk of adverse cardiovascular events (predicted 6‑month mortality 3.0% or less). [2020]
+Glycoprotein IIb/IIIa inhibitors for complex PCI
+1.2.19
+Glycoprotein IIb/IIIa inhibitors as an adjunct to PCI are recommended as an option in NICE technology appraisal guidance for people with unstable angina or NSTEMI who are having complex procedures. For full details, see the guidance on glycoprotein IIb/IIIa inhibitors (TA47, 2010).
+
+Management when PCI is not indicated
+1.2.20
+Consider conservative management without early coronary angiography for people with unstable angina or NSTEMI who have a low risk of adverse cardiovascular events (predicted 6‑month mortality 3.0% or less). [2020]
+1.2.21
+Offer ticagrelor, as part of dual antiplatelet therapy with aspirin, to people with unstable angina or NSTEMI when PCI is not indicated, unless they have a high bleeding risk. [2020]
+
+Ticagrelor is recommended as an option in NICE technology appraisal guidance for treating unstable angina or NSTEMI when PCI is not indicated. For full details, see the guidance on ticagrelor (TA236, 2011).
+
+1.2.22
+Consider clopidogrel, as part of dual antiplatelet therapy with aspirin, or aspirin alone, for people with unstable angina or NSTEMI when PCI is not indicated, if they have a high bleeding risk. [2020]
+Advice on management strategies
+1.2.23
+Offer people with unstable angina or NSTEMI clear information about the risks and benefits of the treatments offered so that they can make informed choices about management strategies. Information should be appropriate to the person's underlying risk of a future adverse cardiovascular event and any comorbidities. [2010]
+
+1.2.24
+When advising people with unstable angina or NSTEMI about the choice of revascularisation strategy (PCI or CABG), take account of coronary angiographic findings, comorbidities, and the benefits and risks of each intervention. [2010]
+
+1.2.25
+When the role of revascularisation or the revascularisation strategy is unclear, resolve this by discussion involving an interventional cardiologist, cardiac surgeon and other healthcare professionals relevant to the needs of the person. Discuss the choice of revascularisation strategy with the person. [2010]
+
+Tests before discharge
+1.2.26
+To detect and quantify inducible ischaemia, consider ischaemia testing before discharge for people whose condition has been managed conservatively and who have not had coronary angiography. [2010]
+
+1.2.27
+Assess left ventricular function in all people who have had an NSTEMI. [2013]
+
+1.2.28
+Consider assessing left ventricular function in all people with unstable angina. [2010]
+
+1.2.29
+Record measures of left ventricular function in the person's care record and in correspondence with the primary healthcare team and the person. [2010]
+1.4 Drug therapy for secondary prevention
+NICE has produced a visual summary of the recommendations on cardiac rehabilitation and secondary prevention.
+
+1.4.1
+For secondary prevention, offer people who have had MI treatment with the following drugs:
+
+angiotensin-converting enzyme (ACE) inhibitor
+
+dual antiplatelet therapy (aspirin plus a second antiplatelet) unless they have a separate indication for anticoagulation (see the section on antiplatelet therapy for people with an ongoing separate indication for anticoagulation)
+
+beta-blocker
+
+statin. [2007, amended 2020]
+
+1.4.2
+Ensure that a clear management plan is available to the person who has had an MI and is also sent to the GP, including:
+
+details and timing of any further drug titration
+
+monitoring of blood pressure
+
+monitoring of renal function. [2013]
+
+1.4.3
+Offer all people who have had an MI an assessment of bleeding risk at their follow‑up appointment. [2013]
+
+1.4.4
+Rivaroxaban, with aspirin and clopidogrel, or aspirin alone, is recommended as an option in NICE technology appraisal guidance for preventing atherothrombotic events in people who have had an acute coronary syndrome with elevated cardiac biomarkers, taking bleeding risk into account. For full details, see the guidance on rivaroxaban (TA335, 2015).
+
+1.4.5
+Rivaroxaban plus aspirin is recommended as an option in NICE technology appraisal guidance for preventing atherothrombotic events in some people with coronary artery disease who are at high risk of ischaemic events, taking bleeding risk into account. For full details, see the guidance on rivaroxaban (TA607, 2019).
+
+ACE inhibitors
+1.4.6
+Offer people who present acutely with an MI, an ACE inhibitor as soon as they are haemodynamically stable. Continue the ACE inhibitor indefinitely. [2013]
+
+1.4.7
+Titrate the ACE inhibitor dose upwards at short intervals (for example, every 12 to 24 hours) before the person leaves hospital until the maximum tolerated or target dose is reached. If it is not possible to complete the titration during this time, it should be completed within 4 to 6 weeks of hospital discharge. [2013]
+
+1.4.8
+Do not offer combined treatment with an ACE inhibitor and an angiotensin II receptor blocker (ARB) to people after an MI, unless there are other reasons to use this combination. [2013]
+
+1.4.9
+After an MI, offer people who are intolerant to ACE inhibitors, an ARB instead of an ACE inhibitor. [2013]
+
+1.4.10
+Renal function, serum electrolytes and blood pressure should be measured before starting an ACE inhibitor or ARB and again within 1 or 2 weeks of starting treatment. People should have appropriate monitoring as the dose is titrated upwards, until the maximum tolerated or target dose is reached, and then at least annually. More frequent monitoring may be needed in people who are at increased risk of deterioration in renal function. People with chronic heart failure should be monitored in line with the NICE guideline on chronic heart failure in adults. [2007]
+
+1.4.11
+Offer an ACE inhibitor to people who have had an MI more than 12 months ago. Titrate to the maximum tolerated or target dose (over a 4‑ to 6‑week period) and continue indefinitely. [2013]
+
+1.4.12
+Offer people who have had an MI more than 12 months ago and who are intolerant to ACE inhibitors an ARB instead of an ACE inhibitor. [2013]
+
+Antiplatelet therapy
+1.4.13
+Offer aspirin to all people after an MI and continue it indefinitely, unless they are aspirin intolerant or have an indication for anticoagulation (see the section on antiplatelet therapy for people with an ongoing separate indication for anticoagulation). [2007, amended 2013]
+
+1.4.14
+Offer aspirin to people who have had an MI more than 12 months ago and continue it indefinitely. [2013]
+
+1.4.15
+Continue dual antiplatelet therapy for up to 12 months after an MI unless contraindicated (see recommendations 1.1.11, 1.1.24, 1.1.25, 1.2.17, 1.2.21 and 1.2.22 for more information about dual antiplatelet therapy). [2020]
+
+1.4.16
+Ticagrelor with aspirin for up to 3 years is recommended as an option in NICE technology appraisal guidance for preventing atherothrombotic events in people who had an MI more than 12 months ago and are at high risk of a further event. For full details, see the guidance on ticagrelor (TA420, 2016).
+
+1.4.17
+For people with aspirin hypersensitivity who have had an MI, clopidogrel monotherapy should be considered as an alternative treatment. [2007]
+
+1.4.18
+People with a history of dyspepsia should be considered for treatment in line with the NICE guideline on gastro-oesophageal reflux disease and dyspepsia in adults. [2007, amended 2013]
+
+1.4.19
+After appropriate treatment, people with a history of aspirin-induced ulcer bleeding whose ulcers have healed and who are negative for Helicobacter pylori should be considered for treatment in line with the NICE guideline on gastro-oesophageal reflux disease and dyspepsia in adults. [2007, amended 2013]
+
+1.4.20
+Offer clopidogrel instead of aspirin to people who also have other clinical vascular disease, and who have:
+
+had an MI and stopped dual antiplatelet therapy or
+
+had an MI more than 12 months ago. [2013]
+
+Clopidogrel is recommended as an option in NICE technology appraisal guidance to prevent occlusive vascular events in some people. For full details, see the guidance on clopidogrel (TA210, 2010).
+
+Antiplatelet therapy for people with an ongoing separate indication for anticoagulation
+1.4.21
+For people who have a separate indication for anticoagulation, take into account all of the following when thinking about the duration and type (dual or single) of antiplatelet therapy in the 12 months after an acute coronary syndrome:
+
+bleeding risk
+
+thromboembolic risk
+
+cardiovascular risk
+
+person's wishes.
+
+Be aware that the optimal duration of aspirin therapy has not been established, and that long-term continuation of aspirin, clopidogrel and oral anticoagulation (triple therapy) significantly increases bleeding risk. [2020]
+
+1.4.22
+For people already on anticoagulation who have had PCI, continue anticoagulation and clopidogrel for up to 12 months. If the person is taking a direct oral anticoagulant, adjust the dose according to bleeding risk, thromboembolic risk and cardiovascular risk. [2020]
+
+1.4.23
+For people with a new indication for anticoagulation who have had PCI, offer clopidogrel (to replace prasugrel or ticagrelor) for up to 12 months and an oral anticoagulant licensed for the indication, which best matches the person's:
+
+bleeding risk
+
+thromboembolic risk
+
+cardiovascular risk
+
+wishes. [2020]
+
+1.4.24
+For people already on anticoagulation, or those with a new indication, who have not had PCI (medical management, CABG), continue anticoagulation and, unless there is a high risk of bleeding, consider continuing aspirin (or clopidogrel for people with contraindication for aspirin) for up to 12 months. [2020]
+
+1.4.25
+Do not routinely offer prasugrel or ticagrelor in combination with an anticoagulant that is needed for an ongoing separate indication for anticoagulation. [2020]
+
+1.4.26
+For people with an ongoing indication for anticoagulation 12 months after an MI, take into consideration all of the following when thinking about the need for continuing antiplatelet therapy:
+
+indication for anticoagulation
+
+bleeding risk
+
+thromboembolic risk
+
+cardiovascular risk
+
+person's wishes. [2013]
+
+Beta-blockers
+1.4.27
+Offer people a beta-blocker as soon as possible after an MI, when the person is haemodynamically stable. [2013]
+
+1.4.28
+Communicate plans for titrating beta-blockers up to the maximum tolerated or target dose – for example, in the discharge summary. [2013]
+
+1.4.29
+Consider continuing a beta-blocker for 12 months after an MI for people without reduced left ventricular ejection fraction. [2020]
+
+1.4.30
+Discuss the potential benefits and risks of stopping or continuing beta-blockers beyond 12 months after an MI for people without reduced left ventricular ejection fraction. Include in the discussion:
+
+the lack of evidence on the relative benefits and harms of continuing beyond 12 months
+
+the person's experience of adverse effects. [2020]
+1.4.31
+Continue a beta-blocker indefinitely in people with reduced left ventricular ejection fraction. [2013]
+
+1.4.32
+Offer all people who have had an MI more than 12 months ago, who have reduced left ventricular ejection fraction, a beta-blocker whether or not they have symptoms. For people with heart failure plus reduced left ventricular ejection fraction, manage the condition in line with the NICE guideline on chronic heart failure in adults. [2013]
+
+1.4.33
+Do not offer people without reduced left ventricular ejection fraction or heart failure, who have had an MI more than 12 months ago, treatment with a beta-blocker unless there is an additional clinical indication for a beta-blocker. [2013]
+
+Calcium channel blockers
+1.4.34
+Do not routinely offer calcium channel blockers to reduce cardiovascular risk after an MI. [2007]
+
+1.4.35
+If beta-blockers are contraindicated or need to be discontinued, diltiazem or verapamil may be considered for secondary prevention in people without pulmonary congestion or reduced left ventricular ejection fraction. [2007]
+
+1.4.36
+For people whose condition is stable after an MI, calcium channel blockers may be used to treat hypertension and/or angina. For people with heart failure with reduced ejection fraction, use amlodipine, and avoid verapamil, diltiazem and short-acting dihydropyridine agents in line with the NICE guideline on chronic heart failure in adults. [2007, amended 2020]
+
+Potassium channel activators
+1.4.37
+Do not offer nicorandil to reduce cardiovascular risk after an MI. [2007]
+
+Aldosterone antagonists in people with heart failure and reduced left ventricular ejection fraction
+1.4.38
+For people who have had an acute MI and who have symptoms and/or signs of heart failure and reduced left ventricular ejection fraction, initiate treatment with an aldosterone antagonist licensed for post‑MI treatment within 3 to 14 days of the MI, preferably after ACE inhibitor therapy. [2007]
+
+1.4.39
+People who have recently had an acute MI and have clinical heart failure and reduced left ventricular ejection fraction, but who are already being treated with an aldosterone antagonist for a concomitant condition (for example, chronic heart failure), should continue with the aldosterone antagonist or an alternative, licensed for early post‑MI treatment. [2007]
+
+1.4.40
+For people who have had a proven MI in the past and heart failure due to reduced left ventricular ejection fraction, treatment with an aldosterone antagonist should be in line with the NICE guideline on chronic heart failure in adults. [2007]
+
+1.4.41
+Monitor renal function and serum potassium before and during treatment with an aldosterone antagonist. If hyperkalaemia is a problem, halve the dose of the aldosterone antagonist or stop the drug. [2007]
+
+Statins and other lipid-lowering agents
+1.4.42
+Statin therapy is recommended for adults with clinical evidence of cardiovascular disease in line with recommendations on lipid-lowering treatment for secondary prevention in the NICE guideline on cardiovascular disease: risk assessment and reduction. [2007]
+
+
