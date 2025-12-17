@@ -29,13 +29,7 @@ Enter your clinical query: stroke thrombolysis criteria
 Enter your clinical query: stemi management
 
 ## 🏗️ Project Structure
-clinical-protocol-search/
-├── protocols/          # Clinical protocol text files
-├── src/
-│   ├── loader.py      # Load protocol files
-│   ├── chunker.py     # Split documents into chunks
-│   └── search.py      # Keyword search implementation
-└── main.py            # CLI application
+
 
 ## 🧠 Technical Concepts
 
